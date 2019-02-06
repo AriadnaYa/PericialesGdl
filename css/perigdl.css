@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: peru;
+    width: 950px;
+    margin: auto;
+}
+h1{
+    color: saddlebrown;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h3{
+    color: sienna;
+    text-shadow: -1px 1px #B08949;
+}
+nav>ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul.list-sm{
+    display: block;
+}
+
+nav>ul>li{
+    float: left;
+}
+
+nav>ul>li>a{
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 70px;
+}
+#navbar{
+    background-color: sienna;
+    display: block;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+section{
+    clear: left;
+    text-align: justify;
+}
+
+img#imgPerson{
+    width:  175px;
+    height: 175px;
+}
+
+body>footer{
+    color: lightgrey;
+    text-align: center;
+}
